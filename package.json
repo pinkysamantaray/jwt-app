@@ -7,13 +7,16 @@
     "dev": "nodemon src/index.ts"
   },
   "dependencies": {
-    "express": "5.1.0"
+    "axios": "^1.11.0",
+    "express": "5.1.0",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "@types/express": "5.0.3",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "22.15.32",
+    "nodemon": "^3.1.10",
     "ts-node": "10.9.2",
-    "typescript": "5.8.2",
-    "nodemon": "^3.1.10"
+    "typescript": "5.8.2"
   }
 }
