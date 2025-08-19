@@ -1,2 +1,2 @@
 ### JWT Demo
-![Simulated JWT Flow](https://github.com/pinkysamantaray/jwt-app/blob/main/public/Simulated-JWT-Flow.png)
+![Simulated JWT Flow](https://raw.githubusercontent.com/pinkysamantaray/jwt-app/refs/heads/main/public/Simulated-JWT-Flow.png)
